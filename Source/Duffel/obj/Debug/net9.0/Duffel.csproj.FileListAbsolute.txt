@@ -1,0 +1,4 @@
+C:\Work\git\Duffel.NET\Duffel\Duffel\obj\Debug\net9.0\Duffel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\git\Duffel.NET\Duffel\Duffel\obj\Debug\net9.0\Duffel.AssemblyInfoInputs.cache
+C:\Work\git\Duffel.NET\Duffel\Duffel\obj\Debug\net9.0\Duffel.AssemblyInfo.cs
+C:\Work\git\Duffel.NET\Duffel\Duffel\obj\Debug\net9.0\Duffel.csproj.CoreCompileInputs.cache
